@@ -33,5 +33,6 @@ The app is designed with a clean UI, responsive layout, and supports location-ba
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your app here)*  
 Example:
+<img width="454" height="878" alt="image" src="https://github.com/user-attachments/assets/b7e32e7f-ebd6-448c-8558-17df64731b7c" />
+
